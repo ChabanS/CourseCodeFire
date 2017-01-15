@@ -1,0 +1,8 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<ul>
+    <li><a href="${pageContext.request.contextPath}/pages/index.html">Index</a></li>
+    <li><a href="${pageContext.request.contextPath}/pages/about.html">About</a></li>
+    <li><a href="${pageContext.request.contextPath}/pages/service.html">Service</a></li>
+    <li><a href="${pageContext.request.contextPath}/pages/contacts.html">Contacts</a></li>
+</ul>

@@ -1,0 +1,9 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<div align="center" >
+    <header class="page-header">
+        <h1>
+            M A T H
+        </h1>
+    </header>
+</div>
